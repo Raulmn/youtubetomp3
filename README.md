@@ -1,4 +1,4 @@
-Youtube2mp3 # youtubetomp3
+# youtubetomp3
 Download youtube video and converter to mp3
 
 HOW TO INSTALL
